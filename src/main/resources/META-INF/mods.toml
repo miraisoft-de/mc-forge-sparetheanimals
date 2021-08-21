@@ -1,11 +1,11 @@
 modLoader="javafml" #mandatory
-loaderVersion="[34,)" #mandatory
-license="CC BY Miraisoft"
+loaderVersion="[37,)" #mandatory
+license="CC BY miraisoft"
 
 [[mods]] #mandatory
 modId="sparetheanimals" #mandatory
 version="${file.jarVersion}" #mandatory
-displayName="Miraisoft's Spare The Animals" #mandatory
+displayName="Spare The Animals" #mandatory
 displayURL="https://www.miraisoft.de/mc-forge-sparetheanimals" #optional
 logoFile="sparetheanimals.png" #optional
 credits="Thanks for using this mod" #optional
@@ -19,13 +19,13 @@ This mod makes zombies drop leather, skeletons drop feathers.
 [[dependencies.sparetheanimals]] #optional
     modId="forge" #mandatory
     mandatory=true #mandatory
-    versionRange="[33,)" #mandatory
+    versionRange="[37,)" #mandatory
     ordering="NONE"
     side="BOTH"
 	
 [[dependencies.sparetheanimals]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.2,)"
+    versionRange="[1.17.1,)"
     ordering="NONE"
     side="BOTH"
