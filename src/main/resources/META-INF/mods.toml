@@ -1,5 +1,5 @@
 modLoader="javafml" #mandatory
-loaderVersion="[41,)" #mandatory
+loaderVersion="[46,)" #mandatory
 license="CC BY miraisoft"
 
 [[mods]] #mandatory
@@ -14,18 +14,19 @@ description='''
 Spare The Animals
 You don't want to kill animals? Then this mod is right for you.
 This mod makes zombies drop leather, skeletons drop feathers.
+Since mod version 2.0 there are also new recipes for black dye, ink sacs and glowing ink sacs.
 '''
 
 [[dependencies.sparetheanimals]] #optional
     modId="forge" #mandatory
     mandatory=true #mandatory
-    versionRange="[41,)" #mandatory
+    versionRange="[46,)" #mandatory
     ordering="NONE"
     side="BOTH"
 	
 [[dependencies.sparetheanimals]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19,)"
+    versionRange="[1.20,)"
     ordering="NONE"
     side="BOTH"
