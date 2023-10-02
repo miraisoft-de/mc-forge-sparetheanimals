@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " b ",
+        "btb",
+        " b "
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:blackstone"
+        },
+        "t": {
+            "item": "minecraft:tnt"
+        }
+    },
+    "result": {
+        "item": "minecraft:black_dye",
+        "count": 4
+    }
+}

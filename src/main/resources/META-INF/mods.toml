@@ -14,6 +14,7 @@ description='''
 Spare The Animals
 You don't want to kill animals? Then this mod is right for you.
 This mod makes zombies drop leather, skeletons drop feathers.
+Since version 2.0 there are new recipes for black dye, ink sacs and glow ink sacs.
 '''
 
 [[dependencies.sparetheanimals]] #optional
