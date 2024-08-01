@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "misc",
     "pattern": [
         " b ",
         "btb",
@@ -14,7 +15,7 @@
         }
     },
     "result": {
-        "item": "minecraft:black_dye",
+        "id": "minecraft:black_dye",
         "count": 4
     }
 }

@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "misc",
     "pattern": [
         " g ",
         "gwg",
@@ -14,7 +15,7 @@
         }
     },
     "result": {
-        "item": "minecraft:glow_ink_sac",
+        "id": "minecraft:glow_ink_sac",
         "count": 1
     }
 }

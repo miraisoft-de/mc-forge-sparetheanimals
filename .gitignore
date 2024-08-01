@@ -1,0 +1,10 @@
+/gradle/
+/gradlew
+/gradlew.bat
+/.gradle/
+/build/
+/bin/
+/gradle4.10/
+/logs/
+/.classpath
+/.project
