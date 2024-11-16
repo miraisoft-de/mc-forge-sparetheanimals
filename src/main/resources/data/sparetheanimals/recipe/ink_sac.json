@@ -1,13 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
+    "type": "crafting_shapeless",
     "category": "misc",
     "ingredients": [
-            {
-            "item": "minecraft:black_dye"
-            },
-            {
-            "item": "minecraft:leather"
-            }
+            "minecraft:black_dye",
+            "minecraft:leather"
     ],
     "result": {
         "id": "minecraft:ink_sac",

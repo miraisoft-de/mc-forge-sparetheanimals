@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "crafting_shaped",
     "category": "misc",
     "pattern": [
         " b ",
@@ -7,12 +7,8 @@
         " b "
     ],
     "key": {
-        "b": {
-            "item": "minecraft:blackstone"
-        },
-        "t": {
-            "item": "minecraft:tnt"
-        }
+        "b": "minecraft:blackstone",
+        "t": "minecraft:tnt"
     },
     "result": {
         "id": "minecraft:black_dye",

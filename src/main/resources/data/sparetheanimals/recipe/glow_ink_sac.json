@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "crafting_shaped",
     "category": "misc",
     "pattern": [
         " g ",
@@ -7,12 +7,8 @@
         " g "
     ],
     "key": {
-        "g": {
-            "item": "minecraft:glowstone_dust"
-        },
-        "w": {
-            "item": "minecraft:white_dye"
-        }
+        "g": "minecraft:glowstone_dust",
+        "w": "minecraft:white_dye"
     },
     "result": {
         "id": "minecraft:glow_ink_sac",
